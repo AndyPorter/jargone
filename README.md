@@ -1,6 +1,6 @@
 #Jargone
 
-This [is a fork of Roo Reynolds Jargone](http://rooreynolds.github.com/jargone/)
+This [is a fork of Roo Reynolds Jargone](https://github.com/rooreynolds/jargone)
 
 Jargone is [a bookmarklet](http://andyporter.github.com/jargone/) for highlighting [jargon words](https://www.gov.uk/designprinciples/styleguide#item_4_1_3), and Land Registry words that users do not understand, on any page.
 
