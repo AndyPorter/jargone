@@ -1,12 +1,15 @@
 #Jargone
 
-Jargone is [a bookmarklet](http://rooreynolds.github.com/jargone/) for highlighting [jargon words](https://www.gov.uk/designprinciples/styleguide#item_4_1_3) on any page.
+This [is a fork of Roo Reynolds Jargone](http://rooreynolds.github.com/jargone/)
+
+Jargone is [a bookmarklet](http://andyporter.github.com/jargone/) for highlighting [jargon words](https://www.gov.uk/designprinciples/styleguide#item_4_1_3), and Land Registry words that users do not understand, on any page.
+
 
 <a href="http://www.flickr.com/photos/rooreynolds/8435984971/"><img src="http://farm9.staticflickr.com/8510/8435984971_e3f76721c0_o.png" width="757" height="547"></a>
 
 ##Installation
 
-Follow the two step [installation instructions](http://rooreynolds.github.com/jargone/)
+Follow the two step [installation instructions](http://andyporter.github.com/jargone/)
 
 ##Building
 

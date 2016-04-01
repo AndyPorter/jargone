@@ -4,6 +4,8 @@
  * Highlight jargon on the page. Jargon, begone.
  * Roo Reynolds | rooreynolds.com | @rooreynolds
  * 
+ * Land Registry / legal temonology confusing to users added - jargonlist.txt line 710 onward
+ *
  * [NB: jargone.js is built using build.sh. Expect changes here to be overwritten]
  */
 
