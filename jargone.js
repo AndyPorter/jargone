@@ -719,7 +719,13 @@ javascript:(function () {
             ['world cafe',"(Local Government Association banned words, 2010)"],
             ['writing is on the wall',"Trade cliches, Keith Waterhouse, On Newspaper Style"],
             ['writing on the wall',"Trade cliches, Keith Waterhouse, On Newspaper Style"],
-            ['you may be able to',"Do not let caveats dictate unwieldy grammar – eg say 'You can' rather than 'You may be able to' - www.gov.uk/design-principles/style-guide - odi.dwp.gov.uk/inclusive-communications/representation/language.php"]
+            ['you may be able to',"Do not let caveats dictate unwieldy grammar – eg say 'You can' rather than 'You may be able to' - www.gov.uk/design-principles/style-guide - odi.dwp.gov.uk/inclusive-communications/representation/language.php"],
+            ['title', "Land Registry / legal terminology: be careful using - as not understood by users in the context of a Land Registry document"],
+            ['freehold', "Land Registry / legal terminology: be careful using - as not well understood by users when explaining land titles"],
+            ['leasehold', "Land Registry / legal terminology: be careful using - as not well understood by users when explaining land titles"],
+            ['caution', "Land Registry / legal terminology: be careful using - as not well understood by users when explaining land"],
+            ['unregistered', "Land Registry / legal terminology: be careful using - as users dont understand how land cannot be registered (which they equate to owned?)"],
+            ['application', "Land Registry terminology: not specific enough for users - especially when it's an application to view something - this is form a paper based world"]
 	],
 	wordsLen = words.length,
 	idx;
