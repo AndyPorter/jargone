@@ -26,3 +26,8 @@ To add to the jargon list:
 There are some other tools and services you might find useful. 
 
  - [Hemingway](http://www.hemingwayapp.com) highlights sentences that are hard to read, complex sentences, use of the passive voice, etc.
+
+##Example links
+ - [Speech - a balanced approach to the challenges of economic crime](https://www.gov.uk/government/speeches/a-balanced-approach-to-the-challenges-of-economic-crime)
+ - [Find property information prototype - terms](https://drv-ux-prototype.herokuapp.com/drv-18/terms)
+ - [Land Registry Pracactice guide - first registrations](https://www.gov.uk/government/publications/first-registrations/practice-guide-1-first-registrations)
