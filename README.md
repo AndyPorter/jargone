@@ -30,4 +30,4 @@ There are some other tools and services you might find useful.
 ##Example pages to jargone
  - [Speech - a balanced approach to the challenges of economic crime](https://www.gov.uk/government/speeches/a-balanced-approach-to-the-challenges-of-economic-crime)
  - [Find property information prototype - terms](https://drv-ux-prototype.herokuapp.com/drv-18/terms)
- - [Land Registry Pracactice guide - first registrations](https://www.gov.uk/government/publications/first-registrations/practice-guide-1-first-registrations)
+ - [Land Registry Practice guide - first registrations](https://www.gov.uk/government/publications/first-registrations/practice-guide-1-first-registrations)
