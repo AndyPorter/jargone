@@ -206,6 +206,7 @@
 'econometric',"(Local Government Association banned words, 2010)"
 'economical'
 'edge-fit',"(Local Government Association banned words, 2009)"
+'egress', 'Consider: exit, leave or go out'
 'eliminate'
 'elucidate'
 'embedded',"(Local Government Association banned words, 2009)"

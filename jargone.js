@@ -221,6 +221,7 @@ javascript:(function () {
             ['econometric',"(Local Government Association banned words, 2010)"],
             ['economical'],
             ['edge-fit',"(Local Government Association banned words, 2009)"],
+            ['egress', 'Consider: exit, leave or go out'],
             ['eliminate'],
             ['elucidate'],
             ['embedded',"(Local Government Association banned words, 2009)"],
@@ -727,7 +728,7 @@ javascript:(function () {
             ['leasehold', "Land Registry / legal terminology: be careful using - as not well understood by users when explaining land titles"],
             ['caution', "Land Registry / legal terminology: be careful using - as not well understood by users when explaining land"],
             ['unregistered', "Land Registry / legal terminology: be careful using - as users dont understand how land cannot be registered (which they equate to owned?)"],
-            ['application', "Land Registry terminology: not specific enough for users - especially when it's an application to view something - this is form a paper based world"]
+            ['application', "Land Registry terminology: not specific enough for users - especially when it's an application to view something - (an application to 'view a copy of' is a paper based concept)"]
 	],
 	wordsLen = words.length,
 	idx;
